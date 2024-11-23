@@ -1,2 +1,2 @@
-# operating-systems-with-go
-| Playing around with golang to understand OS concepts
+# operating-systems-scripts
+| Playing around with golang and other langs to understand OS concepts
